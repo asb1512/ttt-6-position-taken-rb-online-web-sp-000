@@ -9,5 +9,3 @@ binding.pry
     true
   end
 end
-
-binding.pry
